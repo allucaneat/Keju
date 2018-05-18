@@ -1,4 +1,5 @@
 from flask import Flask,request
+from peneliti import surel as email
 app = Flask(__name__)
 
 @app.route('/<gurih>')
@@ -13,3 +14,7 @@ def show_post(post_id):
 @app.route('/crot', methods=['POST'])
 def login():
 	return request.form['anu']
+
+@app.route('/peneliti/surel/<fr>')
+def home(A):
+	return email.hom(A)
