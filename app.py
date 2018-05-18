@@ -16,5 +16,9 @@ def login():
 	return request.form['anu']
 
 @app.route('/peneliti/surel/<fr>')
-def home(A):
-	return email.hom(A)
+def home(fr):
+	return email.hom(fr)
+
+@app.route('/peneliti/surel/<am>')
+def home(am):
+	return email.hom(am)
