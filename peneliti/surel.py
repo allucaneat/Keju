@@ -1,10 +1,13 @@
 #from scholarly import peneliti
 #app = peneliti __
 
-def hom(fr):
+def path(fr):
 	return fr+"fathirabbani2707@gmail.com"
 
-def hom(am):
+def path(am):
 	return am+"aipsupraptomunari@gmail.com"
+
+def path(wa):
+	return wa+"johnmayer@gmail.com"
 
 

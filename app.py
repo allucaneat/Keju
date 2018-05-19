@@ -17,8 +17,12 @@ def login():
 
 @app.route('/peneliti/surel/<fr>')
 def home(fr):
-	return email.hom(fr)
+	return email.path(fr)
 
 @app.route('/peneliti/surel/<am>')
 def home(am):
-	return email.hom(am)
+	return email.path(am)
+
+@app.route('/peneliti/surel/<wa>')
+def home(wa):
+    return email.path(wa)
