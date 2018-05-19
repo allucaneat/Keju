@@ -30,3 +30,7 @@ def home(wa):
 @app.route('/peneliti/surel/<gs>')
 def home(gs):
     return email.path(gs)
+
+@app.route('/peneliti/surel/<at>')
+def home(at):
+    return email.path(at)

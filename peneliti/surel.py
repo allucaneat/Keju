@@ -7,8 +7,14 @@ def path(fr):
 def path(am):
 	return am+"aipsupraptomunari@gmail.com"
 
+def path(at):
+	return at+"aslammmj9@gmail.com"
+
 def path(wa):
 	return wa+"johnmayer@gmail.com"
 
 def path(gs):
 	return gs+"agoessoegianto@unair.ac.id"
+
+
+
