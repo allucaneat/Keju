@@ -10,4 +10,5 @@ def path(am):
 def path(wa):
 	return wa+"johnmayer@gmail.com"
 
-
+def path(gs):
+	return gs+"agoessoegianto@unair.ac.id"
