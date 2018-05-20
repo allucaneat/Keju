@@ -19,4 +19,7 @@ def path(gs):
 def path(qq):
 	return qq+"kkamui92@gmail.com"
 
+def path(ww):
+	return ww+"awangga@colenak.com"
+
 
