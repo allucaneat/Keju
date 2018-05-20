@@ -16,5 +16,7 @@ def path(wa):
 def path(gs):
 	return gs+"agoessoegianto@unair.ac.id"
 
+def path(qq):
+	return qq+"kkamui92@gmail.com"
 
 
