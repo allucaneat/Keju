@@ -8,3 +8,5 @@ def var3():
 	print ("YusniarNS")
 def var4():
 	print ("suprapto")
+def var5():
+	print ("penjahat")	
