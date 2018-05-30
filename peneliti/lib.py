@@ -6,3 +6,5 @@ def var2():
 	print ("hello")
 def var3():
 	print ("YusniarNS")
+def var4():
+	print ("suprapto")
