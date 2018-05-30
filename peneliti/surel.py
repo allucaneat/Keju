@@ -1,5 +1,5 @@
-#from scholarly import peneliti
-#app = peneliti __
+from scholarly import peneliti
+app = peneliti __
 
 def path(fr):
 	return fr+"fathirabbani2707@gmail.com"
